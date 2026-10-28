@@ -1,5 +1,4 @@
 # I2C-Protocol-Design-and-Verification-Using-Verilog
-# I2C Protocol Design and Verification using Verilog
 
 ## 📌 Project Overview
 
